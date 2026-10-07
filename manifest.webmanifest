@@ -1,0 +1,16 @@
+{
+  "name": "Gaffer 26",
+  "short_name": "Gaffer 26",
+  "description": "A football management game. Pick a club, run it your way and play it offline.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#04060a",
+  "theme_color": "#0b2fd6",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
